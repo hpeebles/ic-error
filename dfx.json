@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "canisters": {
+    "error_backend": {
+      "type": "rust",
+      "package": "error_backend",
+      "candid": "src/error_backend/error_backend.did"
+    }
+  }
+}

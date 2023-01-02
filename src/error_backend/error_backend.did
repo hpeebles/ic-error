@@ -1,0 +1,4 @@
+service : {
+    ping: () -> (text) query;
+    error: () -> ();
+}
